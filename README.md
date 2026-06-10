@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Divij Gujarathi 👋
 
-B.Tech Electronics & Telecommunication @ VIT Pune | CGPA: 8.76/10.0
+B.Tech Electronics & Telecommunication @ VIT Pune | CGPA: 8.9/10.0
 
 Building AI systems, full-stack apps, and federated learning pipelines.
 
