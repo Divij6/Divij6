@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Electronics & Telecommunication Engineering @ VIT Pune | AI/ML | LLMs & RAG | Embedded Systems </h3>
 
 <p align="center">
-  <img src="https://github.com/Divij6/Divij6/blob/main/coding.gif" width="100%" alt="dev setup gif"/>
+  <img src="https://github.com/Divij6/Divij6/blob/main/coding.gif" width="90%" alt="dev setup gif"/>
 </p>
 
 <p align="center">
