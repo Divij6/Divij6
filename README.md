@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Divij Gujarathi</h1>
-<h3 align="center">Electronics & Telecommunication Engineering @ VIT Pune | AI/ML | LLMs & RAG | Embedded Systems | Robotics</h3>
+<h3 align="center">Electronics & Telecommunication Engineering @ VIT Pune | AI/ML | LLMs & RAG | Embedded Systems </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/intro.gif" width="100%" alt="dev setup gif"/>
+  <img src="https://github.com/Divij6/Divij6/blob/main/coding.gif" width="100%" alt="dev setup gif"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-handle">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/divij-gujarathi-b15ba728a/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/your-username/your-username/blob/main/Divij_Gujarathi_Resume.pdf">Resume</a>
 </p>
 
