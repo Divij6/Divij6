@@ -13,55 +13,58 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Divij Gujarathi 👋
+<h1 align="center">Hi 👋, I'm Divij Gujarathi</h1>
+<h3 align="center">Electronics & Telecommunication Engineering @ VIT Pune | AI/ML | LLMs & RAG | Embedded Systems | Robotics</h3>
 
-B.Tech Electronics & Telecommunication @ VIT Pune | CGPA: 8.9/10.0
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/intro.gif" width="100%" alt="dev setup gif"/>
+</p>
 
-Building AI systems, full-stack apps, and federated learning pipelines.
-
-📧 gujarathidivij@gmail.com | [LinkedIn](#) | [GitHub](#)
-
----
-
-## 🚀 Featured Projects
-
-### 🔷 Proposal Generation & Auto Filling System *(Industry Sponsored · Ongoing)*
-Full-stack document intelligence for DATASMITH AI — parses tender PDFs, extracts sections & tables, and generates DOCX proposals using LangGraph + RAG.
-`Python` `FastAPI` `React` `LangGraph` `Qdrant` `Cohere` `Supabase` `Groq`
-
-### 🔷 DevRoom — Collaborative Software Planning Workspace
-Real-time MERN workspace with React Flow canvas, JWT auth, role-based rooms, and live presence sync via Socket.IO.
-`React` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT`
-
-### 🔷 Health Guard-FL — Federated Learning Sepsis Prediction
-Privacy-preserving FL pipeline for early sepsis detection, sharing only model weights across clients.
-`Python` `Flower` `XGBoost` `Random Forest` `React`
-
-### 🔷 RAG Chatbot *(Industry Sponsored)*
-LLM chatbot recommending Renishaw stylus parts from 5,000+ probes using LangChain + Gemini.
-`Python` `LangChain` `Gemini 1.5` `Streamlit` `RAG`
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-handle">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/your-username/your-username/blob/main/Divij_Gujarathi_Resume.pdf">Resume</a>
+</p>
 
 ---
 
-## 🛠️ Skills
+### About Me
 
-**Languages:** Python · Java · C · SQL · HTML/CSS  
-**AI/ML:** LLMs · RAG · Federated Learning · Computer Vision · Supervised ML  
-**Web:** React · Node.js · Express · MongoDB · Socket.IO  
-**Hardware:** FPGA · Embedded Systems · Robotics · IoT
+I enjoy building automated, intelligent systems that solve real-world problems. I'm currently sharpening my skills in **Machine Learning**, with hands-on experience in **LLMs, RAG pipelines, and agentic workflows**. I also have a strong interest in **Robotics and Embedded Systems**, having worked on projects ranging from autonomous robotic arms to FPGA-based hardware security and federated learning for healthcare.
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Winner** — Datathon Competition | Power BI dashboard, 1st place
-- 🥈 **Finalist** — Mastercard Code for Change | Top team from 200+ participants across 6 colleges
-- 🥈 **Finalist** — Uptiq AI Hackathon | LLM productivity assistant
-- 🥈 **Finalist** — DRDO Hackathon | AI real-time threat detection system
+I love participating in hackathons, exploring new AI tools, and turning ideas into working prototypes.
 
 ---
 
-## 📜 Certifications
-- Fundamentals of Deep Learning — **NVIDIA**
-- Supervised ML: Regression & Classification — **Stanford Online**
-- Full Stack Software Developer — **IBM**
+### Skills & Tech Stack
+
+- **Languages:** C, Java, Python, SQL, HTML, CSS
+- **AI / ML:** Scikit-learn, XGBoost, Random Forest, OpenCV, Supervised Machine Learning, Computer Vision
+- **LLMs & RAG:** LangChain, LangGraph, RAG, Agentic Workflows, Qdrant, Cohere, Gemini, Llama, Microsoft Phi
+- **Web Development:** React, Node.js, Express, MongoDB, FastAPI, Socket.IO
+- **Embedded & Robotics:** Arduino, FPGA, Verilog HDL, Servo Motors & Motor Drivers, IoT
+- **Tools & Platforms:** Git, GitHub, Power BI, Supabase
+
+---
+
+### Achievements
+
+- 🏆 **Winner** – Datathon Competition: Built a Power BI analytics dashboard under competition constraints, securing 1st place among all participating teams.
+- 🥈 **Finalist** – Mastercard Code for Change Hackathon: Selected among top teams from 200+ participants across 6 colleges.
+- 🥈 **Finalist** – Uptiq AI Sponsored Hackathon: Built an LLM-powered productivity assistant on the Uptiq AI platform.
+- 🥈 **Finalist** – DRDO Sponsored Hackathon: Developed an AI-powered real-time threat and weapon detection system.
+
+---
+
+### Pinned Projects
+
+Check out my pinned repositories below 👇
+
+---
+<!--
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divij6&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divij6&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+-->
